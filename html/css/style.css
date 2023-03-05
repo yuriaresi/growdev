@@ -1,0 +1,53 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: azure;
+    background: url(../images/wp2-xayah-wallpapers.jpg.png) no-repeat left top;
+    background-size: cover;
+}
+header {
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    padding: 20px;
+}
+h1 {
+    text-align: center;
+    
+}
+main {
+padding: 0px 20px 0px 20px;
+
+}
+footer {
+    background-color: black;
+    color: white;
+    font-size: 25px;
+    text-align: center;
+    padding: 20px;
+    margin-top: 20px;
+}
+#titulo-1 {
+    color: #273746;
+
+}
+
+.paragrafo {
+    color: #273746;
+    font-size: 20px;
+
+}
+.table, td, th, tr {
+width: 500px;
+border: 1px solid #273746;
+
+}
+.fundo-branco {
+    background-color: white;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 20px;
+    
+
+}
